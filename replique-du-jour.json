@@ -1,25 +1,21 @@
 {
   "date": "2026-10-09",
-  "title": "La réplique du jour : Le Labyrinthe de Pan et l'anniversaire de Guillermo del Toro",
+  "title": "La réplique du jour : « He won’t even know your name » dans Le Labyrinthe de Pan",
+  "html": "<p><strong>Vendredi 9 octobre 2026.</strong> Né le 9 octobre 1964, le cinéaste mexicain Guillermo del Toro fête aujourd’hui ses 62 ans. Pour cet anniversaire, <em>La Radio du Cinéma</em> revient sur une phrase décisive du <em>Labyrinthe de Pan</em> (<em>El laberinto del fauno</em>, 2006).</p><h2>La réplique du jour</h2><blockquote><p lang=\"en\">« No. He won’t even know your name. »</p></blockquote><p>Mercedes adresse ces mots au capitaine Vidal dans le dénouement. En quelques secondes, elle refuse au personnage la postérité qu’il réclame : son fils grandira sans même connaître son nom. Nous conservons ici la formulation anglaise attestée par le scénario ; elle n’est pas présentée comme une transcription du doublage français.</p><h2>Pourquoi cette réplique aujourd’hui ?</h2><p>Le 9 octobre est la date de naissance de Guillermo del Toro. Ce choix relie son anniversaire à l’un des gestes les plus nets de son cinéma : opposer à la brutalité du pouvoir la mémoire, la désobéissance et la transmission.</p><h2>Comment voir le film ?</h2><p>Consultez <a href=\"https://www.allocine.fr/film/fichefilm-57689/telecharger-vod/\">la fiche VoD du <em>Labyrinthe de Pan</em> sur AlloCiné</a> pour vérifier les offres accessibles au moment de votre consultation.</p><p><small>Illustration typographique originale créée pour La Radio du Cinéma, sans affiche ni photogramme.</small></p>",
   "category": "La réplique du jour",
   "tags": [
     "Le Labyrinthe de Pan",
     "Guillermo del Toro",
-    "réplique du jour",
-    "cinéma fantastique",
+    "Mercedes",
+    "réplique de cinéma",
     "9 octobre"
   ],
-  "html": "<p><strong>Vendredi 9 octobre 2026.</strong> Né le 9 octobre 1964 à Guadalajara, le réalisateur mexicain Guillermo del Toro fête ses 62 ans. Pour marquer cet anniversaire, retour sur <em>Le Labyrinthe de Pan</em> (<em>El laberinto del fauno</em>, 2006), un conte fantastique traversé par la violence de l'Espagne franquiste.</p><h2>La réplique du jour</h2><blockquote><p>« No. He won't even know your name. »</p></blockquote><p>Dans les sous-titres anglais du film, Mercedes répond ainsi au capitaine Vidal lorsqu'il voudrait que son fils garde le souvenir de son père. Une réplique brève et implacable, prononcée dans le dénouement, qui oppose au désir de postérité du personnage la décision de ne pas transmettre son nom. Cette citation est reproduite dans sa traduction anglaise vérifiée ; il ne s'agit pas d'une transcription attestée du doublage français.</p><h2>Un conte dont l'imaginaire affronte l'Histoire</h2><p>Guillermo del Toro fait se rencontrer les épreuves d'Ofelia, jeune fille attirée par un univers féerique, et la répression menée par un officier franquiste. L'imaginaire n'efface pas la brutalité du monde adulte : il en révèle la cruauté et les possibilités de résistance. Le film fait de Mercedes l'une des figures humaines essentielles de cette opposition.</p><h2>Pourquoi cette réplique aujourd'hui ?</h2><p>Ce 9 octobre rappelle la naissance de Guillermo del Toro, le 9 octobre 1964. L'anniversaire offre l'occasion de retrouver une phrase qui résume l'un des enjeux du film : qui contrôle la mémoire laissée aux générations suivantes ?</p><h2>Comment voir le film ?</h2><p>Consultez <a href=\"https://www.allocine.fr/film/fichefilm-57689/telecharger-vod/\">la fiche VoD du Labyrinthe de Pan sur AlloCiné</a> pour vérifier les offres de location et d'achat accessibles au moment de votre consultation.</p><p><small>Photo d'illustration : Guillermo del Toro au Festival de Sitges en 2017, Guillem Medina, <a href=\"https://commons.wikimedia.org/wiki/File:Guillermo_del_Toro_in_2017.jpg\">Wikimedia Commons</a>, licence <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Recadrage déjà présent sur la source Commons ; adaptation éventuelle à signaler.</small></p>",
-  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Guillermo_del_Toro_in_2017.jpg",
-  "verified": false,
+  "imageUrl": "https://raw.githubusercontent.com/radioducinema-beep/agenda-rdc/main/replique-du-jour-2026-10-09.jpg",
+  "verified": true,
   "sources": [
-    "https://www.allocine.fr/personne/fichepersonne-18940/biographie/",
-    "https://www.imdb.com/title/tt0457430/quotes/",
+    "https://www.dailyscript.com/scripts/PansLabyrinthEnglishScreenplay.pdf",
+    "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/del-toro-guillermo-1964",
     "https://www.allocine.fr/film/fichefilm-57689/telecharger-vod/",
-    "https://commons.wikimedia.org/wiki/File:Guillermo_del_Toro_in_2017.jpg",
-    "https://www.biography.com/movies-tv/guillermo-del-toro"
-  ],
-  "status": "pending",
-  "photoCredit": "Guillem Medina / Wikimedia Commons / CC BY-SA 4.0",
-  "notes": "Image corrigée avec URL du fichier original effectivement publiée sur Wikimedia Commons (3,45 Mo, CC BY-SA 4.0). Publication bloquée tant qu'un essai RadioKing en production et une vérification de page publique ne sont pas possibles."
+    "https://raw.githubusercontent.com/radioducinema-beep/agenda-rdc/main/replique-du-jour-2026-10-09.jpg"
+  ]
 }
