@@ -1,5 +1,49 @@
 [
   {
+    "id": "rdc-216",
+    "title": "Écrans sous contraintes : le cinéma pendant l’Occupation",
+    "start": "2026-11-27",
+    "end": "2027-07-10",
+    "city": "Paris",
+    "country": "France",
+    "summary": "Exposition à la Fondation Jérôme Seydoux-Pathé.",
+    "source_url": "https://www.fondation-jeromeseydoux-pathe.com/event/3348",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6b0885c74883a6.35148780.jpg"
+  },
+  {
+    "id": "rdc-218",
+    "title": "Le cinéma peut-il encore sauver le monde ?",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "city": "Paris",
+    "country": "France",
+    "summary": "Projection-débat au Centre Wallonie-Bruxelles à 20 heures.",
+    "source_url": "https://cwb.fr/agenda/le-cinema-peut-il-sauver-le-monde-un-film-de-serge-nagels-philippe-reynaert-en-leur-presence",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6b0885f86c37f1.29623285.jpg"
+  },
+  {
+    "id": "rdc-219",
+    "title": "Restaurations et raretés, Best of 2026",
+    "start": "2026-12-02",
+    "end": "2026-12-06",
+    "city": "Paris",
+    "country": "France",
+    "summary": "Cycle de la Cinémathèque française. Ouverture avec Le Criminel d’Orson Welles.",
+    "source_url": "https://www.cinematheque.fr/",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6b0885fa200251.80284849.jpg"
+  },
+  {
+    "id": "rdc-217",
+    "title": "Moteur! lance sa saison 11 aux 7 Parnassiens",
+    "start": "2026-12-07",
+    "end": "2026-12-07",
+    "city": "Paris",
+    "country": "France",
+    "summary": "Projection et vote pour le Prix Multiciné à 18h30.",
+    "source_url": "https://www.leprojetmoteur.org/concours",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6b0885f6dc5aa6.40990320.jpg"
+  },
+  {
     "id": "rdc-106",
     "title": "Carrefour du cinéma d’animation 2026",
     "start": "2026-12-08",
