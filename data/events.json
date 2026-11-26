@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "rdc-106",
+    "title": "Carrefour du cinéma d’animation 2026",
+    "start": "2026-12-08",
+    "end": "2026-12-13",
+    "city": "Paris",
+    "country": "France",
+    "summary": "Forum des images. Naoko Yamada est l’invitée d’honneur de la 23e édition.",
+    "source_url": "https://www.forumdesimages.fr/carrefour-du-cinema-danimation-2026",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6916f59b37b038.46064201.jpg"
+  },
+  {
+    "id": "rdc-204",
+    "title": "Paris International Fantastic Film Festival 2026",
+    "start": "2026-12-08",
+    "end": "2026-12-14",
+    "city": "Paris",
+    "country": "France",
+    "summary": "La 15e édition du PIFFF se tient au Max Linder Panorama.",
+    "source_url": "https://www.pifff.fr/2026/planning-fr",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6ada40d579d126.11752663.jpg"
+  },
+  {
+    "id": "rdc-202",
+    "title": "Festival Séquence Court-Métrage 2026",
+    "start": "2026-12-09",
+    "end": "2026-12-13",
+    "city": "Toulouse",
+    "country": "France",
+    "summary": "La 35e édition présente des courts métrages de fiction, d’animation et documentaires dans les salles de Toulouse et d’Occitanie.",
+    "source_url": "https://www.sequence-court.com/",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6ad7af5c10f5e8.94985867.jpg"
+  },
+  {
+    "id": "rdc-165",
+    "title": "Les Arcs Film Festival 2026",
+    "start": "2026-12-12",
+    "end": "2026-12-19",
+    "city": "Les Arcs",
+    "country": "France",
+    "summary": "La 18e édition programme une compétition européenne et met le cinéma espagnol à l’honneur.",
+    "source_url": "https://lesarcs-filmfest.com/fr/edition/le-festival",
+    "image_url": "https://radioducinema.com/upload/agenda/main/6ac7f7e3541965.38744176.jpg"
+  }
+]
